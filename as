@@ -129,25 +129,29 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-032/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-022/stream.mpd?p=web
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN COMBAT
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="" group-title="SPORTS" , DAZN COMBAT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=z7XitzvvTzyHjyWrhqdFHw:DWcSvyqE7cyT0AGpYT9v7A
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN RISE
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="" group-title="SPORTS" , DAZN FAST+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=z7XitzvvTzyHjyWrhqdFHw:DWcSvyqE7cyT0AGpYT9v7A
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN WOMEN'S FOOTBALL
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="" group-title="SPORTS" , DAZN RISE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=z7XitzvvTzyHjyWrhqdFHw:DWcSvyqE7cyT0AGpYT9v7A
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN FAST+
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="" group-title="SPORTS" , DAZN WOMEN'S FOOTBALL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=z7XitzvvTzyHjyWrhqdFHw:DWcSvyqE7cyT0AGpYT9v7A
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Dazn NBA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
