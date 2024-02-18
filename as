@@ -376,5 +376,7 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SP
 #KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
 https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
 
-#EXTINF:-1, tennis
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx",tennis
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0077c68863dc9e7e7442ccb2b27e4cab:67767105f4f2aa7a5f0feae67cfa3d65
 https://dfwlive-v1-c4p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(TNNSHD-8240.dfw.1080)/index.m3u8
