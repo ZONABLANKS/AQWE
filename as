@@ -380,3 +380,8 @@ https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0077c68863dc9e7e7442ccb2b27e4cab:67767105f4f2aa7a5f0feae67cfa3d65
 https://dfwlive-v1-c4p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(TNNSHD-8240.dfw.1080)/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx",USANET
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=372adbbc2f7a84379d4af2a0350ca190:37922201fbe77e02e24a590c7c8b443b,882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+https://dfwlive-v1-c4p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(USAHD-1327.dfw.1080)/index.m3u8
