@@ -371,3 +371,7 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SP
 #EXTINF:-1, Sport TV6
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV6_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
 
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx",Sport Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
+https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
