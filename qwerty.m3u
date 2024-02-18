@@ -674,6 +674,21 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx",CANAL+ SPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e942b1dad92436baad0c6a6901f6d13:5adefdb3f4edd5ceee23d37c10c37e5c,5fb92575d7da45219e9a88646cd3e243:31d1f1df9c246eb734de1be0f6bf6acf,7c35f5ae279941b7be726157476d7031:53dcc0a61387ce3fa3bfa290a9bc80c7,7cd69bed1cc54d83bd7f988f622c1157:332e0a856cdfcd7a1d6da6dcf84633a7
+https://cors-proxy.cluster.fun/https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSportHD/hd2-dashdrm02/CplusSportHD.mpd
+
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx",CANAL+ SPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f7fa9f0250a43cea8aebd8167f1fc81:f6bbc783b0e7a46a147e673a4347730a,f5c080517f6c4366b1930315a6aa70e7:581eba7045254d1de036557789932a05,89787fecb0ac43ab86aa356054e2a183:f0153c6dc5c55c5f23fcdeed8241d5e4
+https://cors-proxy.cluster.fun/https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport2HD/hd2-dashdrm02/CplusSport2HD.mpd
+
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx",CANAL+ SPORT 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=274cafc63e854f9ca14acbc49af103a0:4dc63ff74dc5415f3c0c63b62f8fedaa,b4274e5bdb7e4370bb87af609a74a64e:4763cbd2fa26f4de8bead22db09b0f46,009d1ea463574791a88e5d008f7ab15c:fa4812bd0d608c2f8bfeb02fb213320d
+https://cors-proxy.cluster.fun/https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport3HD/hd2-dashdrm02/CplusSport3HD.mpd
+
 #EXTINF:-1 group-title="La Liga TV" tvg-logo="https://pbs.twimg.com/profile_images/1679416847995752449/PxbFgIJx_400x400.jpg", LaLiga TV Hypermotion
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
