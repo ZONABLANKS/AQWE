@@ -223,7 +223,7 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-050/stream.mpd?p=web
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hd1tcp4.png", Dazn ELEVEN1 Portugal 54
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd?p=web
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd?p=web
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hd1tcp4.png", Dazn ELEVEN1 Portugal #
 #KODIPROP:inputstream.adaptive.license_type=clearkey
