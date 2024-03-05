@@ -168,6 +168,18 @@ https://raw.githubusercontent.com/dandisuwo/vidio1/main/lsbtvauto2.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx",Court1
+https://habotv.github.io/live/c1.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx",Court2
+https://habotv.github.io/live/c2.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx",Court3
+https://habotv.github.io/live/c3.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx",Court4
+https://habotv.github.io/live/c4.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
