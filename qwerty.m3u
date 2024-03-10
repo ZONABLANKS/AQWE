@@ -824,3 +824,9 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)
 
 #EXTINF:-1 tvg-id="CartoonitoMexico.mx",Live 1
 https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/698009749.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx",Mls 1
+https://play2nm.hnyongshun.cn/live/sd-pxwrxlh5zjplryk.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx",Mls 2
+https://play2nm.hnyongshun.cn/live/sd-pxwrxlh5zjplryk.m3u8
